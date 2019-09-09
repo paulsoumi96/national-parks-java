@@ -1,4 +1,4 @@
-pkg_origin=learn-chef
+pkg_origin=paulsoumi96
 pkg_name=mongodb-parks
 pkg_version=3.2.9
 pkg_description="MongoDB for the National Parks app"
